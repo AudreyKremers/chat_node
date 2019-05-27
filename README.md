@@ -1,5 +1,5 @@
-# chat_node_react    
-A chat with a connexion part create from scratch with Node JS/React JS/MongoDB/Express/Socket.io - Web dev training    
+# chat_node    
+A chat with a connexion part create from scratch with Node JS/MongoDB/Socket.io - Web dev training    
 
 ## Version beta    
 It works but still be simple.    
