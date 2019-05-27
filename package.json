@@ -1,0 +1,23 @@
+{
+  "name": "chat_node_react",
+  "version": "1.0.0",
+  "description": "A chat app using nodejs, reactjs, sockets, mongodb ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AudreyKremers/chat_node_react.git"
+  },
+  "author": "audreykrem@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AudreyKremers/chat_node_react/issues"
+  },
+  "homepage": "https://github.com/AudreyKremers/chat_node_react#readme",
+  "dependencies": {
+    "mongodb": "^2.2.36",
+    "socket.io": "^2.2.0"
+  }
+}
