@@ -21,3 +21,4 @@ The "clear" button clear the "chat box".
 Thank to you for your attention !    
 
 [Audrey Kremers](https://www.linkedin.com/in/audrey-kremers-433776178/)    
+#### Named Zazachat app in memory of my little cat : ZaZa :heart:
