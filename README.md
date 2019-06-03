@@ -1,4 +1,4 @@
-# chat_node    
+# chat_node (in construction)    
 A chat with a connexion part create from scratch with Node JS/MongoDB/Socket.io - Web dev training    
 
 ## Version beta    
