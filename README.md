@@ -15,8 +15,8 @@ In your cmd or git bash :
 ## Few screenshots :    
 The "clear" button clear the "chat box".    
 
-![First](https://github.com/AudreyKremers/chat_node_react/blob/master/img/chat_node_react.PNG)
-![Next](https://github.com/AudreyKremers/chat_node_react/blob/master/img/Chat_node_react_message_send.PNG)
+![FirstStep](https://github.com/AudreyKremers/chat_node/blob/master/img/chat_node_react.PNG)
+![NextStep](https://github.com/AudreyKremers/chat_node/blob/master/img/Chat_node_react_message_send.PNG)
 
 Thank to you for your attention !    
 
