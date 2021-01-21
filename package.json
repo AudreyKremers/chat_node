@@ -18,6 +18,6 @@
   "homepage": "https://github.com/AudreyKremers/chat_node_react#readme",
   "dependencies": {
     "mongodb": "^2.2.36",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   }
 }
